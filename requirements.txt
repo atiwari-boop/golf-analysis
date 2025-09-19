@@ -10,4 +10,4 @@ moviepy
 # numpy==1.26.4
 # matplotlib==3.8.4
 # moviepy==1.0.3
-# ffmpeg-python
+ffmpeg-python
